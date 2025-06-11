@@ -1,6 +1,6 @@
 ligolosetup(){
   # Variables
-  LIGOLO_VERSION="0.7.5"
+  LIGOLO_VERSION="0.8.1"
 
   # Crear directorios
   echo -e "[+] Creando los directorios..."
